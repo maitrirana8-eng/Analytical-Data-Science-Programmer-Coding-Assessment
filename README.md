@@ -53,6 +53,7 @@ ADaM_ADSL.csv – Final ADaM dataset in .csv format
 question_3_tlg01_create_ae_summary_table.R – Generates AE summary table of Treatment Emergent AEs
 question_3_tlg02_create_visualizations.R   – Generates two AE plots # Plot1 - AE Severity Distribution by treatment (Bar chart)
                                                                     # Plot2 - Top 10 most frequent AEs (Forest Plot)
+                                                                    
  **Input Data for ae_summary table:**
  pharmaverseadam::adae, pharmaverseadam::adsl  
  
