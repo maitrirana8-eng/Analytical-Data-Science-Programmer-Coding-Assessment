@@ -22,7 +22,7 @@ sdtm.oak, tidyverse, pharmaverseraw
 sdtm_ds_domain_logfile.txt – Execution log file
 
 **Output:**
-sdtm_ds.csv – Final SDTM dataset in .csv format
+sdtm_ds.csv – Final SDTM dataset 
 
 --------------------------------------------------
 **Question 2 – ADaM Dataset Creation**
@@ -42,7 +42,7 @@ admiral, tidyverse, pharmaverseraw
 adam_adsl_logfile.txt – Execution log file
 
 **Output:**
-ADaM_ADSL.csv – Final ADaM dataset in .csv format
+ADaM_ADSL.csv – Final ADaM dataset 
 
 --------------------------------------------------
 **Question 3 – TLG Generation**
@@ -71,7 +71,7 @@ tlg01_ae_summary_table_logfile.txt,
 tlg02_visualizations_logfile.txt
 
 **Outputs:**
-tlg01_ae_summary table.pdf – Summary table in pdf format, 
-tlg01_ae_summary_table.html – Summary table in html format, 
+tlg01_ae_summary table.pdf – Summary table, 
+tlg01_ae_summary_table.html – Summary table, 
 tlg02_AE_Severity_Distribution - Visualization Plot1, 
 tlg02_Top10_AE_ForestPlot - Visualization Plot2
